@@ -1,0 +1,6 @@
+better to drive one of the umcc connectors with trigsout_delay and the other with trigsout
+add reset generation chip
+add rc filter lockin output. to reduce rise times, or via slew rate,
+plus voltage divider to reduce voltage on line
+or switch to lvds
+add rc filter to uart output
